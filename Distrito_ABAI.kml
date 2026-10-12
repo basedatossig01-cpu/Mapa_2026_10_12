@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_ABAI.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Superficie" type="double"/>
+      <SimpleField name="Situaci_1" type="string"/>
+      <SimpleField name="Plantado" type="string"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_Impl" type="string"/>
+      <SimpleField name="Grupo_de_P" type="string"/>
+      <SimpleField name="Jornales" type="double"/>
+      <SimpleField name="Monto" type="double"/>
+      <SimpleField name="ETAPA_FAO" type="string"/>
+      <SimpleField name="Asistencia" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Adjudicado" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Monitorear" type="string"/>
+      <SimpleField name="Fecha_de_M" type="string"/>
+      <SimpleField name="F__de_pren" type="string"/>
+      <SimpleField name="Estado_FAO" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Fecha_visi" type="string"/>
+      <SimpleField name="Etapa_impl" type="string"/>
+      <SimpleField name="Cumple_sup" type="string"/>
+      <SimpleField name="Estado_mon" type="string"/>
+      <SimpleField name="Situaci_12" type="string"/>
+      <SimpleField name="Observaci" type="string"/>
+      <SimpleField name="Dias_trans" type="double"/>
+      <SimpleField name="Prioridad" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_ABAI">
+      <name>Distrito_ABAI</name>
+      <Placemark id="Distrito_ABAI.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ABAI.schema">
+            <SimpleData name="Cédula">5451959.00000000000</SimpleData>
+            <SimpleData name="cedula">5451959</SimpleData>
+            <SimpleData name="Cédula_1">5451959.00000000000</SimpleData>
+            <SimpleData name="N">66.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIDIA CHEJUGI</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">CAAZAPA</SimpleData>
+            <SimpleData name="Distrito">ABAI</SimpleData>
+            <SimpleData name="Localidad">COM INDIG YPETIMI</SimpleData>
+            <SimpleData name="Teléfono">0984585234</SimpleData>
+            <SimpleData name="Vivienda_L">-25.94104510000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.70494150000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-25.95431839000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.72775668000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">B-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/24</SimpleData>
+            <SimpleData name="Etapa_impl">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">17.32206018520</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">66</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7272800964221,-25.9539213317127,0
+                -55.727529334997,-25.9547504413023,0
+                -55.7275464759552,-25.9547856894701,0
+                -55.7275663850075,-25.9548266291739,0
+                -55.7276115526916,-25.9548178088893,0
+                -55.7276489152062,-25.9548105126332,0
+                -55.7276778370486,-25.9548048648383,0
+                -55.7282548883078,-25.9546921754233,0
+                -55.7282418490682,-25.9546654474765,0
+                -55.7282376072095,-25.9546567527545,0
+                -55.7282339819388,-25.9546493220261,0
+                -55.728105899462,-25.9542816374785,0
+                -55.7280547869952,-25.9541349099392,0
+                -55.7279424744424,-25.9538124965368,0
+                -55.7272800964221,-25.9539213317127,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ABAI.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ABAI.schema">
+            <SimpleData name="Cédula">5451911.00000000000</SimpleData>
+            <SimpleData name="cedula">5451911</SimpleData>
+            <SimpleData name="Cédula_1">5451911.00000000000</SimpleData>
+            <SimpleData name="N">64.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DIANA KUIPIRUGI</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">CAAZAPA</SimpleData>
+            <SimpleData name="Distrito">ABAI</SimpleData>
+            <SimpleData name="Localidad">COM INDIG YPETIMI</SimpleData>
+            <SimpleData name="Teléfono">0981055915</SimpleData>
+            <SimpleData name="Vivienda_L">-25.94104180000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.70490100000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-25.95433535000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.72639051000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">B-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/24</SimpleData>
+            <SimpleData name="Etapa_impl">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">17.33496527780</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">64</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7261553960985,-25.9547489889897,0
+                -55.7261660970625,-25.9547907344598,0
+                -55.7261661928985,-25.9547911090841,0
+                -55.7268434319915,-25.9548484391614,0
+                -55.7268465360846,-25.9548487021017,0
+                -55.7268480666759,-25.9548488320289,0
+                -55.7268574328406,-25.9548496249344,0
+                -55.7267688576493,-25.9544931597821,0
+                -55.7266635456706,-25.9540693462081,0
+                -55.7266203861091,-25.9538752386978,0
+                -55.7265734565306,-25.9538722284483,0
+                -55.7259290184492,-25.953830889224,0
+                -55.7259198917572,-25.9538303096356,0
+                -55.7259444351605,-25.9539260519821,0
+                -55.7261456161782,-25.9547108386578,0
+                -55.7261553960985,-25.9547489889897,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ABAI.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ABAI.schema">
+            <SimpleData name="Cédula">6547651.00000000000</SimpleData>
+            <SimpleData name="cedula">6547651</SimpleData>
+            <SimpleData name="Cédula_1">6547651.00000000000</SimpleData>
+            <SimpleData name="N">149.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CEVELINA NAMBUCHUIGI</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">CAAZAPA</SimpleData>
+            <SimpleData name="Distrito">ABAI</SimpleData>
+            <SimpleData name="Localidad">COM INDIG YPETIMI</SimpleData>
+            <SimpleData name="Teléfono">0984943455</SimpleData>
+            <SimpleData name="Vivienda_L">-25.94110470000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.70489050000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-25.95427945000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.72568913000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">B-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/24</SimpleData>
+            <SimpleData name="Etapa_impl">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">17.34331018520</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">149</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7252815321288,-25.9541153166149,0
+                -55.7254854026868,-25.9547090732358,0
+                -55.7254937931193,-25.9547335096787,0
+                -55.7254774056692,-25.9547352695405,0
+                -55.7254850899273,-25.9547425618128,0
+                -55.7256561315423,-25.9547442018791,0
+                -55.7261553960985,-25.9547489889897,0
+                -55.7261456161782,-25.9547108386578,0
+                -55.7259444351605,-25.9539260519821,0
+                -55.7259198917572,-25.9538303096356,0
+                -55.7259290184492,-25.953830889224,0
+                -55.7259250912739,-25.9538170094137,0
+                -55.7251949919282,-25.9538414100612,0
+                -55.7252815321288,-25.9541153166149,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_ABAI.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_ABAI.schema">
+            <SimpleData name="Cédula">6590468.00000000000</SimpleData>
+            <SimpleData name="cedula">6590468</SimpleData>
+            <SimpleData name="Cédula_1">6590468.00000000000</SimpleData>
+            <SimpleData name="N">151.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LIDIA KRIPURANGI DUARTE</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">CAAZAPA</SimpleData>
+            <SimpleData name="Distrito">ABAI</SimpleData>
+            <SimpleData name="Localidad">COM INDIG YPETIMI</SimpleData>
+            <SimpleData name="Teléfono">0984670229</SimpleData>
+            <SimpleData name="Vivienda_L">-25.94102990000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.70498580000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-25.95430639000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.72500407000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">B-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Adjudicado">SI</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/09/24</SimpleData>
+            <SimpleData name="Etapa_impl">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">17.34347222220</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">151</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.7245222917612,-25.9538605109375,0
+                -55.7246142491898,-25.9541483225525,0
+                -55.7248063220734,-25.9547494779138,0
+                -55.7248227844683,-25.954801002452,0
+                -55.7248241930495,-25.9548054108482,0
+                -55.7249390442641,-25.9547930790772,0
+                -55.7252660045424,-25.9547579705702,0
+                -55.7254774056692,-25.9547352695405,0
+                -55.7254937931193,-25.9547335096787,0
+                -55.7254854026868,-25.9547090732358,0
+                -55.7252815321288,-25.9541153166149,0
+                -55.7251785919873,-25.9538155099787,0
+                -55.7245222917612,-25.9538605109375,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
